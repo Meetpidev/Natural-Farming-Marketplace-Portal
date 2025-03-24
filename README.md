@@ -155,10 +155,3 @@ Follow these instructions to set up and run the React frontend application local
 
 ---
 
-## License
-This project is licensed under the MIT License.
-
----
-
-## Contact
-For queries or support, reach out to us at [uveshalisaiyad@gmail.com].
