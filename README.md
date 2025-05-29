@@ -1,3 +1,9 @@
+# Team Overview
+1) Meet Shah (team Lead, Full stack developer, Designer)
+2) Saiyad Uveshali (full stack developer)
+3) Prince (AI/ML developer)
+4) Ayush (AI/ML developer)
+
 # Video Presentation
 https://youtu.be/UFd52afRBZU
 
