@@ -1,9 +1,8 @@
-## Team Infromation:
--  (1) Saiyad Uveshali ( Backend Developer )
--  (2) prince Raiyani ( AI/ML Developer)
-
 # Video Presentation
 https://youtu.be/UFd52afRBZU
+
+# Live Link 
+https://natural-farming-marketplace-portal.vercel.app/
 
 # Natural Farming Marketplace Portal
 
